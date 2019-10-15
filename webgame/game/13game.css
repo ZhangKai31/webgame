@@ -1,0 +1,104 @@
+header{
+    display:block;
+    margin: 0 auto;
+    width:500px;
+    text-align:center;
+}
+
+header h1{
+    font-family: Arial;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+header #startgamebutton{
+    display: block;
+    margin: 20px auto;
+
+    width:100px;
+    padding: 10px 10px;
+    background-color: #339933;
+
+    font-family: Arial;
+    color: white;
+
+    border-radius: 10px;
+
+    text-decoration: none;
+}
+
+header #startgamebutton:hover{
+    background-color: #336633;
+}
+
+
+header #gamebutton{
+    display: block;
+    margin: 20px auto;
+
+    width:100px;
+    padding: 10px 10px;
+    background-color: #339933;
+
+    font-family: Arial;
+    color: white;
+
+    border-radius: 10px;
+
+    text-decoration: none;
+}
+
+header #gamebutton:hover{
+    background-color: #336633;
+}
+
+header #endgamebutton{
+    display: block;
+    margin: 20px auto;
+
+    width:100px;
+    padding: 10px 10px;
+    background-color: #339933;
+
+    font-family: Arial;
+    color: white;
+
+    border-radius: 10px;
+
+    text-decoration: none;
+}
+
+header #endgamebutton:hover{
+    background-color: #336633;
+}
+
+#container1{
+    width:580px;
+    height:460px;
+    padding: 20px;
+
+    margin: 50px auto;
+    background-color: #006600;
+
+    border-radius: 10px;
+    position:absolute;
+    left:450px;
+    top:300px;
+}
+
+.cell{
+    width:100px;
+    height: 140px;
+    border-radius: 6px;
+    background-color: #669966;
+
+    position:absolute;
+}
+
+.puke{
+    border-radius: 6px;
+    width:100px;
+    height:140px;
+
+    position: absolute;
+}

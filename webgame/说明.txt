@@ -1,0 +1,6 @@
+1.将webgame文件夹放在D盘根目录下
+2.需要用IE浏览器打开.或者chrome下载
+IE multi插件
+3.游戏页面在game/index.html
+4.打开页面后弹出提示点击允许运行脚本，若页面无法打开刷新URL
+栏。弹出提示允许ActiveX交互。
